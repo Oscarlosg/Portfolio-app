@@ -1,14 +1,15 @@
 import React from "react";
 import { TypeAnimation } from "react-type-animation";
 import { FaLinkedinIn, FaFacebookSquare, FaInstagram } from "react-icons/fa";
+import backgroundImage from "../assets/background-template.jpg"
 
 const main = () => {
   return (
     <div id="main">
       <img
         className="w-full h-screen object-cover "
-        src="src/assets/background-template.jpg"
-        alt=""
+        src={backgroundImage}
+        alt="background image"
       />
       <div className="w-full h-screen absolute top-0 left-0 bg-sky-950/60">
         <div className="max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center ">
