@@ -12,8 +12,12 @@ const main = () => {
       />
       <div className="w-full h-screen absolute top-0 left-0 bg-sky-950/60">
         <div className="max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center ">
-          <h1 className="sm:text3xl text-2xl pb-4 text-gray-400">Hi! My name is</h1>
-          <h1 className="sm:test-5xl text-4xl font-bold text-gray-400">Oscarlos Gomez Rosario</h1>
+        <h1 className="sm:text3xl text-2xl pb-4 text-gray-400">Hi! My name is</h1>
+            <div className="flex md:align-middle md:flex-row flex-col ">
+          <h1 className="sm:test-5xl text-4xl font-bold text-gray-400">Oscarlos </h1>
+          <h1 className="sm:test-5xl pl-3 text-4xl font-bold text-gray-400">Gomez</h1>
+          <h1 className="sm:test-5xl pl-3 text-4xl font-bold text-gray-400">Rosario</h1>
+          </div>
           <h2 className="flex sm:text3xl text-2xl pt-4 text-gray-400">
             and I 
             <TypeAnimation
