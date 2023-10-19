@@ -8,7 +8,7 @@ import {
 import { BsPerson } from "react-icons/bs";
 import { GrProjects } from "react-icons/gr";
 
-//tutotial time stamp 27:39 - https://www.youtube.com/watch?v=22CxRxryQFE&t=1603
+
 
 const SideNav = () => {
   const [nav, setNav] = useState(false);

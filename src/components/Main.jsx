@@ -32,7 +32,7 @@ const main = () => {
                 2500,
                 "learn from my mistakes",
                 2500,
-                "not do the nay nay",
+                "cannot do the nay nay",
                 2500,
               ]}
               wrapper="span"
