@@ -12,9 +12,10 @@ const main = () => {
       />
       <div className="w-full h-screen absolute top-0 left-0 bg-sky-950/60">
         <div className="max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center ">
-          <h1 className="sm:test-5xl text-4xl font-bold text-gray-400">I'm Oscar</h1>
+          <h1 className="sm:text3xl text-2xl pb-4 text-gray-400">Hi! My name is</h1>
+          <h1 className="sm:test-5xl text-4xl font-bold text-gray-400">Oscarlos Gomez Rosario</h1>
           <h2 className="flex sm:text3xl text-2xl pt-4 text-gray-400">
-            I can
+            and I 
             <TypeAnimation
               sequence={[
                 // Same substring at the start will only be typed out once, initially
@@ -22,7 +23,7 @@ const main = () => {
                 2500, // wait 1s before replacing "Mice" with "Hamsters"
                 "design logos",
                 2500,
-                "tell funny jokes ",
+                "tell funny jokes",
                 2500,
                 "learn from my mistakes",
                 2500,
