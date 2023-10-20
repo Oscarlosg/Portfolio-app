@@ -1,7 +1,7 @@
 import React from "react";
 import { TypeAnimation } from "react-type-animation";
 import { FaLinkedinIn, FaFacebookSquare, FaInstagram } from "react-icons/fa";
-import backgroundImage from "../assets/background-template.jpg"
+import backgroundImage from "../assets/test.jpg"
 
 const main = () => {
   return (
@@ -11,7 +11,7 @@ const main = () => {
         src={backgroundImage}
         alt="background image"
       />
-      <div className="w-full h-screen absolute top-0 left-0 bg-sky-950/60">
+      <div className="w-full h-screen absolute top-0 left-0 bg-gradient-to-r from-sky-950/90 to-sky-950/40">
         <div className="max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center ">
         <h1 className="sm:text3xl text-2xl pb-4 text-gray-400">Hi! My name is</h1>
             <div className="flex md:align-middle md:flex-row flex-col ">

@@ -71,55 +71,55 @@ const SideNav = () => {
           <div className="flex flex-row group">
             <a
               href="#main"
-              className="rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 ml-5 cursor-pointer hover:scale-110 ease-in duration-300"
+              className="rounded-full shadow-lg bg-gray-100  m-2 p-4 ml-5 cursor-pointer hover:scale-110 ease-in duration-300"
             >
               <AiOutlineHome size={20} />
             </a>
-            <p className="pt-[22px] text-black-400 hidden group-hover:block drop-shadow-xl shadow-white">
+            <p className="text-1xl font-bold pt-[22px] text-gray-400 hidden group-hover:block drop-shadow-xl shadow-white">
               Home
             </p>
           </div>
           <div className="flex flex-row group">
             <a
               href="#work"
-              className="rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 ml-5 cursor-pointer hover:scale-110 ease-in duration-300"
+              className="rounded-full shadow-lg bg-gray-100  m-2 p-4 ml-5 cursor-pointer hover:scale-110 ease-in duration-300"
             >
               <GrProjects size={20} />
             </a>
-            <p className="pt-[22px] text-black-400 hidden group-hover:block drop-shadow-xl shadow-white">
+            <p className="text-1xl font-bold pt-[22px] text-gray-400 hidden group-hover:block drop-shadow-xl shadow-white">
               Work History
             </p>
           </div>
           <div className="flex flex-row group">
             <a
               href="#projects"
-              className="rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 ml-5 cursor-pointer hover:scale-110 ease-in duration-300"
+              className="rounded-full shadow-lg bg-gray-100  m-2 p-4 ml-5 cursor-pointer hover:scale-110 ease-in duration-300"
             >
               <AiOutlineProject size={20} />
             </a>
-            <p className="pt-[22px] text-black-400 hidden group-hover:block drop-shadow-xl shadow-white">
+            <p className="text-1xl font-bold pt-[22px] text-gray-400 hidden group-hover:block drop-shadow-xl shadow-white">
               Projects
             </p>
           </div>
           <div className="flex flex-row group">
             <a
               href="#main"
-              className="rounded-full shadow-lg bg-gray-100 shadow-gray-200 m-2 p-4 ml-5 cursor-pointer hover:scale-110 ease-in duration-300"
+              className="rounded-full shadow-lg bg-gray-100  m-2 p-4 ml-5 cursor-pointer hover:scale-110 ease-in duration-300"
             >
               <BsPerson size={20} />
             </a>
-            <p className="pt-[22px] text-black-400 hidden group-hover:block drop-shadow-xl shadow-white">
+            <p className="text-1xl font-bold pt-[22px] text-gray-400 hidden group-hover:block drop-shadow-xl shadow-white">
               Resume
             </p>
           </div>
           <div className="flex flex-row group">
             <a
               href="#contact"
-              className="rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 ml-5 cursor-pointer hover:scale-110 ease-in duration-300"
+              className="rounded-full shadow-lg bg-gray-100 m-2 p-4 ml-5 cursor-pointer hover:scale-110 ease-in duration-300"
             >
               <AiOutlineMail size={20} />
             </a>
-            <p className="pt-[22px] text-black-400 hidden group-hover:block drop-shadow-xl shadow-white">
+            <p className="text-1xl font-bold pt-[22px] text-gray-400 hidden group-hover:block drop-shadow-xl shadow-white">
               Contact
             </p>
           </div>
