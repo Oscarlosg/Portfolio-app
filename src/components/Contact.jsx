@@ -29,7 +29,7 @@ const Contact = () => {
             <label htmlFor="" className="uppercase text-sm py-2">Message</label>
             <textarea rows="10" name="message" className="border-2 rounded-lg p-3 border-gray-300" />
         </div>
-        <button className="bg-[#001b5e] text-gray-100 mt-4 w-full p-4 rounded-lg" >Send Message</button>
+        <button className="bg-[#0C4160] text-gray-100 mt-4 w-full p-4 rounded-lg" >Send Message</button>
       </form>
     </div>
   );

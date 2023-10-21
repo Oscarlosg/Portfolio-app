@@ -4,6 +4,8 @@ import projectImageTemplate from "../assets/project-template.jpg";
 
 const Projects = () => {
   return (
+    // write down code for separate listings for jobs. one section for coding jobs and another for regular jobs. Makes for better organization. 
+    //maybe just make a extra check to show a box that says "proggraming". its simple stuff
     <div id="projects" className="max-w-[1040px] m-auto md:pl-20 p-4 py-16">
       <h1 className="text-4xl font-bold text-center text-gray-400">Projects</h1>
       <p className="text-center py-8">
