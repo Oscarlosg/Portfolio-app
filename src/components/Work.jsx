@@ -15,6 +15,7 @@ const Work = () => {
           title={item.title}
           duration={item.duration}
           details={item.details}
+          codeBadge={item.codeBadge}
         />
       ))}
     </div>
