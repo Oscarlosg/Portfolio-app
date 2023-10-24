@@ -3,6 +3,8 @@ import { TypeAnimation } from "react-type-animation";
 import { FaLinkedinIn, FaFacebookSquare, FaInstagram } from "react-icons/fa";
 import backgroundImage from "../assets/background.jpg"
 
+
+
 const main = () => {
   return (
     <div id="main">
@@ -23,16 +25,25 @@ const main = () => {
             and I 
             <TypeAnimation
               sequence={[
-                // Same substring at the start will only be typed out once, initially
-                "code in Javascript",
-                2500, // wait 1s before replacing "Mice" with "Hamsters"
+                "am a full-stack dev",
+                2500,
+                "am a graphic designer",
+                2500, 
+                "code in Javascript & Python",
+                2500, 
                 "design logos",
                 2500,
-                "tell funny jokes",
+                "love learning and creating art",
+                2500,
+                "can cook a mean meal",
                 2500,
                 "learn from my mistakes",
                 2500,
                 "cannot do the nay nay",
+                2500,
+                "love tech",
+                2500,
+                "can create your website",
                 2500,
               ]}
               wrapper="span"
