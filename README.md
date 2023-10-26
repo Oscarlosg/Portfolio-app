@@ -14,7 +14,7 @@ Portfolio application created with Js React + vite. Tailwind CSS used for stylin
 After installing dependencies, run ```npm  run dev``` on your command line to start the app locally.  
   
 ### Screenshots
-![Main screenshot.](soon)
+![Main screenshot.](src/assets/screenshot.png)
 
 
 ## Built With
