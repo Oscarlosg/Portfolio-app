@@ -1,0 +1,44 @@
+[
+  {
+    "img": "src/assets/WE-love-movies.png",
+    "title": "We Love Movies",
+    "technology": "Express + PosgreSQL",
+    "url": "https://github.com/Oscarlosg/We-Love-Movies-Back-End"
+  },
+  {
+    "img": "src/assets/decoder-ring.png",
+    "title": "Decoder Ring",
+    "technology": "Javascript",
+    "url": "https://github.com/Oscarlosg/Decoder-Ring---OGR"
+  },
+  {
+    "img": "src/assets/flashcard-o-matic.png",
+    "title": "Flashcard-o-Matic",
+    "technology": "React",
+    "url": "https://github.com/Oscarlosg/Flashcard-Project"
+  },
+  {
+    "img": "src/assets/grub-dash.png",
+    "title": "Grub-Dash",
+    "technology": "Express",
+    "url": "https://github.com/Oscarlosg/Grub-Dash"
+  },
+  {
+    "img": "src/assets/local-library.png",
+    "title": "Local-Library",
+    "technology": "Javascript",
+    "url": "https://github.com/Oscarlosg/Local-Library-OGR"
+  },
+  {
+    "img": "src/assets/recipe-crud.png",
+    "title": "Recipe CRUD",
+    "technology": "React",
+    "url": "https://github.com/Oscarlosg/Recipe-CRUD-App"
+  },
+  {
+    "img": "src/assets/restaurant-managing-system.png",
+    "title": "Restaurant Management System",
+    "technology": "React + Express + PostgreSQL",
+    "url": "https://github.com/Oscarlosg/Restaurant-Tacking-App"
+  }
+]

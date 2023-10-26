@@ -1,6 +1,6 @@
 import React from "react";
 
-const ProjectItem = ({ img, title }) => {
+const ProjectItem = ({ img, title, technology, url }) => {
   return (
     <div className="relative flex items-center justify-center h-auto w-full shadow-xl shadow-gray-400 rounded-xl group hover:bg-gradient-to-r from-gray-400 to-[#0C4160]">
       <img
@@ -13,9 +13,9 @@ const ProjectItem = ({ img, title }) => {
           {title}
         </h3>
         <p className="pb-4 pt-2 text-white text-center">
-          technology{/* add prop for technology used in project */}
+          {technology}{/* add prop for technology used in project */}
         </p>
-        <a href="/" className="">
+        <a href={url} className="">
             <p className="text-center p-3 rounded-lg bg-white text-gray-700 font-bold cursor-pointer text-lg ">More Info</p>
         </a>
       </div>
