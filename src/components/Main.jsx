@@ -53,9 +53,9 @@ const main = () => {
             />
           </h2>
           <div className="flex justify-between pt-6 max-w-[200px] w-full text-gray-400">
-            <FaLinkedinIn className="cursor-pointer" size={30} />
-            <FaFacebookSquare className="cursor-pointer" size={30} />
-            <FaInstagram className="cursor-pointer" size={30} />
+            <a href="https://www.linkedin.com/in/oscarlosg/" className=""><FaLinkedinIn className="cursor-pointer" size={30} /></a>
+            <a href="https://www.facebook.com/OscarlosG/" className=""><FaFacebookSquare className="cursor-pointer" size={30} /></a>
+            <a href="https://www.instagram.com/oscarlos14/" className=""><FaInstagram className="cursor-pointer" size={30} /></a>
           </div>
         </div>
       </div>

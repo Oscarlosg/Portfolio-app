@@ -17,9 +17,15 @@ const Footer = () => {
           </h5>
         </div>
         <div className="flex m-auto justify-between pt-3 max-w-[200px] w-full text-[#8a8b8d]">
-          <FaLinkedinIn className="cursor-pointer" size={30} />
-          <FaFacebookSquare className="cursor-pointer" size={30} />
-          <FaInstagram className="cursor-pointer" size={30} />
+          <a href="https://www.linkedin.com/in/oscarlosg/" className="">
+            <FaLinkedinIn className="cursor-pointer" size={30} />
+          </a>
+          <a href="https://www.facebook.com/OscarlosG/" className="">
+            <FaFacebookSquare className="cursor-pointer" size={30} />
+          </a>
+          <a href="https://www.instagram.com/oscarlos14/" className="">
+            <FaInstagram className="cursor-pointer" size={30} />
+          </a>
         </div>
       </div>
     </div>
