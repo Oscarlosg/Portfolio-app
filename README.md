@@ -15,6 +15,8 @@ After installing dependencies, run ```npm  run dev``` on your command line to st
   
 ### Screenshots
 ![Main screenshot.](src/assets/screenshot.png)
+![Main screenshot 2.](src/assets/screenshot2.png)
+![Main screenshot 3.](src/assets/screenshot3.png)
 
 
 ## Built With
