@@ -1,8 +1,32 @@
-# React + Vite
+# Portfolio-app
+[![Issues](https://img.shields.io/github/issues/Oscarlosg/Portfolio-app)](https://github.com/Oscarlosg/Portfolio-app/issues) [![Issues](https://img.shields.io/github/contributors/Oscarlosg/Portfolio-app)](https://github.com/Oscarlosg/Portfolio-app/graphs/contributors) 
+## Description
+Portfolio application created with Js React + vite. Tailwind CSS used for styling.  Application was created with a mobilce-first approach.  Please check out the live version here : link.
+## Contents
+* [Usage](#usage)
+   * [Screenshots](#screenshots)
+* [Built With](#built-with)
+* [Questions](#questions)
+* [Credits](#credits)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Usage
+After installing dependencies, run ```npm  run dev``` on your command line to start the app locally.  
+  
+### Screenshots
+![Main screenshot.](soon)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Built With
+
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* React + Vite
+* Tailwind CSS
+  
+## Questions
+If you have any questions about the repo, please [open an issue](https://github.com/Oscarlosg/Portfolio-app/issues) or contact me via email at oscarlosg14@gmail.com. You can find more of my work on my GitHub, [Oscarlosg](https://github.com/Oscarlosg/).
+  
+
+  
