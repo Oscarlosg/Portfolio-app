@@ -7,6 +7,7 @@ import {
 } from "react-icons/ai";
 import { BsPerson } from "react-icons/bs";
 import { GrProjects } from "react-icons/gr";
+import resume from "../assets/Oscarlos-G-Resume.pdf"
 
 const SideNav = () => {
   const [nav, setNav] = useState(false);
@@ -50,7 +51,7 @@ const SideNav = () => {
           </a>
           <a
             onClick={handleNav}
-            href="src/assets/Oscarlos-G-Resume.pdf"
+            href={resume}
             download="Oscarlos-G-Resume.pdf"
             className="w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shado-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-200"
           >
@@ -104,7 +105,7 @@ const SideNav = () => {
           </div>
           <div className="flex flex-row group">
             <a
-            href="src/assets/Oscarlos-G-Resume.pdf"
+            href={resume}
             download="Oscarlos-G-Resume.pdf"
               className="rounded-full shadow-lg bg-gray-100  m-2 p-4 ml-5 cursor-pointer hover:scale-110 ease-in duration-300"
             >
