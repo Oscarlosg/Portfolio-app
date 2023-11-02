@@ -15,7 +15,7 @@ const WorkItem = ({ year, title, duration, details, codeBadge = false }) => {
           </span>
           {codeBadge ? (
             <span className="inline-block px-2 py-1 font-semibold text-white bg-red-800 rounded-md">
-              proggraming
+              Programming
             </span>
           ) : null}
         </p>
