@@ -3,7 +3,7 @@ import ProjectItem from "./ProjectItem";
 import projectList from "../assets/projectList.json";
 import decoderImage from "../assets/decoder-ring.png";
 import flashcardImage from "../assets/flashcard-o-matic.png";
-import grubDashImage from "../assets/grub-dash.png";
+import eatFastImage from "../assets/EatFast.png";
 import localLibraryImage from "../assets/local-library.png";
 import recipeCrudImage from "../assets/recipe-crud.png";
 import restaurantAppImage from "../assets/restaurant-managing-system.png";
@@ -13,7 +13,7 @@ const imageList = [
   weLoveMoviesImgae,
   decoderImage,
   flashcardImage,
-  grubDashImage,
+  eatFastImage,
   localLibraryImage,
   recipeCrudImage,
   restaurantAppImage,
