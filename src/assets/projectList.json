@@ -3,18 +3,18 @@
     "img": "src/assets/WE-love-movies.png",
     "title": "We Love Movies",
     "technology": "Express + PosgreSQL",
-    "url": "https://github.com/Oscarlosg/We-Love-Movies-Back-End"
+    "url": "https://github.com/Oscarlosg/We-Love-Movies"
   },
   {
     "img": "src/assets/decoder-ring.png",
     "title": "Decoder Ring",
     "technology": "Javascript",
-    "url": "https://github.com/Oscarlosg/Decoder-Ring---OGR"
+    "url": "https://github.com/Oscarlosg/Decoder-Ring"
   },
   {
     "title": "Flashcard-o-Matic",
     "technology": "React",
-    "url": "https://github.com/Oscarlosg/Flashcard-Project"
+    "url": "https://github.com/Oscarlosg/Flashcard-O-Matic"
   },
   {
     "title": "EatFast",
@@ -24,7 +24,7 @@
   {
     "title": "Local-Library",
     "technology": "Javascript",
-    "url": "https://github.com/Oscarlosg/Local-Library-OGR"
+    "url": "https://github.com/Oscarlosg/Local-Library"
   },
   {
     "title": "Recipe CRUD",
