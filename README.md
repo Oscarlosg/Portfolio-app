@@ -2,7 +2,7 @@
 [![Issues](https://img.shields.io/github/issues/Oscarlosg/Portfolio-app)](https://github.com/Oscarlosg/Portfolio-app/issues) [![Issues](https://img.shields.io/github/contributors/Oscarlosg/Portfolio-app)](https://github.com/Oscarlosg/Portfolio-app/graphs/contributors) 
 
 ## Description
-Portfolio application created with Js React + vite. Tailwind CSS used for styling.  Application was created with a mobilce-first approach.  Please check out the live version here : link.
+Portfolio application created with Js React + vite. Tailwind CSS used for styling.  Application was created with a mobilce-first approach.  Please check out the live version here : https://ogr-portfolio.onrender.com/.
 ## Contents
 * [Usage](#usage)
    * [Screenshots](#screenshots)
